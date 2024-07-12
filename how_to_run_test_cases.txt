@@ -9,4 +9,4 @@ How to run test cases:
    
 2. Run: java test.com.tsc9526.monalisa.InitTestDatabase
 
-3. Run: mvn test
+3. Run: mvn test 
